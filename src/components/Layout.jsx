@@ -12,7 +12,7 @@ import OrderManage from "./OrderManage";
 import InvViewer from "./InvViewer";
 import InvMovements from "./InvMovements";
 import MovViewer from "./MovViewer";
-import { Inventory2 } from "@mui/icons-material";
+import * as icons from "@mui/icons-material";
 import { ModeEdit } from "@mui/icons-material";
 import { BarChart } from "@mui/icons-material";
 
